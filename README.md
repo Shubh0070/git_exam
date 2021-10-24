@@ -1,3 +1,6 @@
 "HI I am Shubham Jiyani here! " 
 
 Trying to achieve something better in the field of Computer Science !
+
+
+I have learnt some tutorials to learn this language !
